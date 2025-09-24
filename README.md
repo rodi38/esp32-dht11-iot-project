@@ -1,4 +1,4 @@
-#  Monitoramento de Temperatura e Umidade com ESP8266 + ThingSpeak
+#  Monitoramento de Temperatura e Umidade com ESP32 + ThingSpeak
 
 Este projeto utiliza MicroPython no ESP32 para monitorar temperatura e umidade com o sensor DHT11, enviando os dados para a nuvem via ThingSpeak.
 
