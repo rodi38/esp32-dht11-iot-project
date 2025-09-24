@@ -24,7 +24,7 @@ Sensor DHT11
 
 Módulo Relé 5V
 
-Jumpers femeas
+Jumpers fêmeas
 
 Acesso Wi-Fi
 
